@@ -14,3 +14,6 @@ class Test {
     }
 }
 ```
+<div background="" style="background-color:#000">
+<center>test aaa</center>
+</div>
